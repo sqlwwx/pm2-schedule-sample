@@ -2,12 +2,16 @@
 
 var loopback = require('loopback');
 var boot = require('loopback-boot');
+var redisSchedule = require('./utils/redis-schedule');
 
 var app = module.exports = loopback();
 
 app.start = function() {
   // start the web server
   return app.listen(function() {
+    for (var i = 0, l = 5; i < l; i++) {
+      redisSchedule('console.log("exec task' + i + ' ")', i * 5);
+    }
     app.emit('started');
     var baseUrl = app.get('url').replace(/\/$/, '');
     console.log('Web server listening at: %s', baseUrl);

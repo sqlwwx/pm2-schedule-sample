@@ -1,0 +1,494 @@
+{
+  "height": 25,
+  "width": 102,
+  "duration": 38.632727,
+  "title": null,
+  "command": null,
+  "version": 1,
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.094428,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.00038,
+      "\u001bk..hedule-sample\u001b\\"
+    ],
+    [
+      0.012078,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mpm2-schedule-sample\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m "
+    ],
+    [
+      0.000274,
+      "\u001b[K"
+    ],
+    [
+      0.000137,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000122,
+      "\u001b[?2004h"
+    ],
+    [
+      0.735472,
+      "p"
+    ],
+    [
+      0.283402,
+      "\bpm"
+    ],
+    [
+      0.205914,
+      "2"
+    ],
+    [
+      0.094845,
+      " "
+    ],
+    [
+      0.20498,
+      "l"
+    ],
+    [
+      0.280576,
+      "o"
+    ],
+    [
+      0.209168,
+      "g"
+    ],
+    [
+      0.278295,
+      "s"
+    ],
+    [
+      0.21263,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\n\u001bkpm2\u001b\\"
+    ],
+    [
+      0.466489,
+      "\u001b[1m\u001b[90m[TAILING] Tailing last 10 lines for [all] processes (change the value with --lines option)\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.005719,
+      "\u001b[90m/home/wwx/.pm2/pm2.log last 10 lines:\u001b[39m\r\n"
+    ],
+    [
+      0.001213,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000209,
+      "2016-10-20 12:02:16: Stopping app:pm2-schedule-sample id:0\r\n"
+    ],
+    [
+      0.000827,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000599,
+      "2016-10-20 12:02:16: Stopping app:pm2-schedule-sample id:1\r\n"
+    ],
+    [
+      0.000718,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000161,
+      "2016-10-20 12:02:16: App name:pm2-schedule-sample id:0 disconnected\r\n"
+    ],
+    [
+      0.000776,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000145,
+      "2016-10-20 12:02:16: App name:pm2-schedule-sample id:1 disconnected\r\n"
+    ],
+    [
+      0.000669,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000142,
+      "2016-10-20 12:02:16: App [pm2-schedule-sample] with id [1] and pid [30689], exited with code [0] via signal [SIGINT]\r\n"
+    ],
+    [
+      0.000712,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000132,
+      "2016-10-20 12:02:16: App [pm2-schedule-sample] with id [0] and pid [30688], exited with code [0] via signal [SIGINT]\r\n"
+    ],
+    [
+      0.000721,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000133,
+      "2016-10-20 12:02:16: Starting execution sequence in -cluster mode- for app name:pm2-schedule-sample id:0\r\n"
+    ],
+    [
+      0.000706,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000132,
+      "2016-10-20 12:02:16: Starting execution sequence in -cluster mode- for app name:pm2-schedule-sample id:1\r\n"
+    ],
+    [
+      0.000701,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000116,
+      "2016-10-20 12:02:16: App name:pm2-schedule-sample id:0 online\r\n"
+    ],
+    [
+      0.000291,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000111,
+      "2016-10-20 12:02:16: App name:pm2-schedule-sample id:1 online\r\n"
+    ],
+    [
+      0.000302,
+      "\r\n"
+    ],
+    [
+      0.003116,
+      "\u001b[90m/home/wwx/.pm2/logs/pm2-schedule-sample-error.log last 10 lines:\u001b[39m\r\n"
+    ],
+    [
+      0.000753,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000166,
+      "    at Function._load (/home/wwx/.yarn-config/global/node_modules/pmx/lib/transaction.js:62:21)\r\n"
+    ],
+    [
+      0.00069,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.00011,
+      "    at require (internal/module.js:20:19)\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000121,
+      "    at Object.<anonymous> (/home/wwx/lab/sqlwwx/pm2-schedule-sample/server/server.js:5:21)\r\n"
+    ],
+    [
+      0.001027,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000117,
+      "    at Module._compile (module.js:570:32)\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000109,
+      "    at Object.Module._extensions..js (module.js:579:10)\r\n"
+    ],
+    [
+      0.00032,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000103,
+      "    at Module.load (module.js:487:32)\r\n"
+    ],
+    [
+      0.000277,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      9.8e-05,
+      "    at tryModuleLoad (module.js:446:12)\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000135,
+      "    at Function.Module._load (module.js:438:3)\r\n"
+    ],
+    [
+      0.000292,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000112,
+      "    at Function._load (/home/wwx/.yarn-config/global/node_modules/pmx/lib/transaction.js:62:21)\r\n"
+    ],
+    [
+      0.000307,
+      "\u001b[31m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      9.4e-05,
+      "    at /home/wwx/.yarn-config/global/node_modules/pm2/lib/ProcessContainer.js:260:23\r\n"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.000752,
+      "\u001b[90m/home/wwx/.pm2/logs/pm2-schedule-sample-out.log last 10 lines:\u001b[39m\r\n"
+    ],
+    [
+      0.000924,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000105,
+      "2016-10-20 12:02 +08:00: exec task1 \r\n"
+    ],
+    [
+      0.000304,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      9.9e-05,
+      "2016-10-20 12:02 +08:00: exec task2 \r\n"
+    ],
+    [
+      0.000732,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000125,
+      "2016-10-20 12:02 +08:00: Web server listening at: http://0.0.0.0:30001\r\n"
+    ],
+    [
+      0.000365,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      7.2e-05,
+      "2016-10-20 12:02 +08:00: Web server listening at: http://0.0.0.0:30001\r\n"
+    ],
+    [
+      5.9e-05,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      4.9e-05,
+      "2016-10-20 12:02 +08:00: Browse your REST API at http://0.0.0.0:30001/explorer\r\n"
+    ],
+    [
+      5.7e-05,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      6e-05,
+      "2016-10-20 12:02 +08:00: Browse your REST API at http://0.0.0.0:30001/explorer\r\n"
+    ],
+    [
+      6.1e-05,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000324,
+      "2016-10-20 12:02 +08:00: exec task1 \r\n"
+    ],
+    [
+      6.3e-05,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      4.9e-05,
+      "2016-10-20 12:02 +08:00: exec task2 \r\n"
+    ],
+    [
+      5.7e-05,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      4.8e-05,
+      "2016-10-20 12:02 +08:00: exec task3 \r\n"
+    ],
+    [
+      5.5e-05,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000153,
+      "2016-10-20 12:02 +08:00: exec task4 \r\n"
+    ],
+    [
+      4.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000386,
+      "\u001b[1m\u001b[90m[STREAMING] Now streaming realtime logs for [all] processes\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      5.161698,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.00032,
+      "Stopping app:pm2-schedule-sample id:0\r\n"
+    ],
+    [
+      0.002637,
+      "\u001b[34mPM2        | \u001b[39mStopping app:pm2-schedule-sample id:1\r\n"
+    ],
+    [
+      0.057951,
+      "\u001b[34mPM2        | \u001b[39m"
+    ],
+    [
+      0.000336,
+      "App name:pm2-schedule-sample id:0 disconnected\r\n"
+    ],
+    [
+      0.014806,
+      "\u001b[34mPM2        | \u001b[39mApp name:pm2-schedule-sample id:1 disconnected\r\n"
+    ],
+    [
+      0.034719,
+      "\u001b[34mPM2        | \u001b[39mApp [pm2-schedule-sample] with id [0] and pid [30833], exited with code [0] via signal [SIGINT]\r\n"
+    ],
+    [
+      0.002823,
+      "\u001b[34mPM2        | \u001b[39mApp [pm2-schedule-sample] with id [1] and pid [30834], exited with code [0] via signal [SIGINT]\r\n"
+    ],
+    [
+      0.063812,
+      "\u001b[34mPM2        | \u001b[39mStarting execution sequence in -cluster mode- for app name:pm2-schedule-sample id:0\r\n"
+    ],
+    [
+      0.013493,
+      "\u001b[34mPM2        | \u001b[39mStarting execution sequence in -cluster mode- for app name:pm2-schedule-sample id:1\r\n"
+    ],
+    [
+      0.117866,
+      "\u001b[34mPM2        | \u001b[39mApp name:pm2-schedule-sample id:0 online\r\n"
+    ],
+    [
+      0.026255,
+      "\u001b[34mPM2        | \u001b[39mApp name:pm2-schedule-sample id:1 online\r\n"
+    ],
+    [
+      3.223875,
+      "\u001b[32m1|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.001919,
+      "Web server listening at: http://0.0.0.0:30001\r\n"
+    ],
+    [
+      0.00112,
+      "\u001b[32m1|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000155,
+      "Browse your REST API at http://0.0.0.0:30001/explorer\r\n"
+    ],
+    [
+      0.001593,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.010466,
+      "Web server listening at: http://0.0.0.0:30001\r\n"
+    ],
+    [
+      0.004247,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000195,
+      "Browse your REST API at http://0.0.0.0:30001/explorer\r\n"
+    ],
+    [
+      5.082082,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.000295,
+      "exec task1 \r\n"
+    ],
+    [
+      5.03023,
+      "\u001b[32m1|pm2-sche | \u001b[39mexec task2 \r\n"
+    ],
+    [
+      4.932363,
+      "\u001b[32m1|pm2-sche | \u001b[39mexec task3 \r\n"
+    ],
+    [
+      5.032484,
+      "\u001b[32m0|pm2-sche | \u001b[39m"
+    ],
+    [
+      0.001327,
+      "exec task4 \r\n"
+    ],
+    [
+      4.312449,
+      "^C"
+    ],
+    [
+      0.000394,
+      "\r\n"
+    ],
+    [
+      0.000355,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000412,
+      "\u001bk..hedule-sample\u001b\\"
+    ],
+    [
+      0.014162,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;31m➜  \u001b[36mpm2-schedule-sample\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m "
+    ],
+    [
+      0.000242,
+      "\u001b[K"
+    ],
+    [
+      0.000152,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000198,
+      "\u001b[?2004h"
+    ],
+    [
+      1.165344,
+      "p"
+    ],
+    [
+      0.620414,
+      "\b \b"
+    ],
+    [
+      0.576446,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}

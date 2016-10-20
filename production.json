@@ -1,0 +1,27 @@
+{
+  "apps": [
+    {
+      "name": "pm2-schedule-sample",
+      "script": "server/server.js",
+      "node_args": [
+        "--harmony"
+      ],
+      "log_date_format": "YYYY-MM-DD HH:mm Z",
+      "exec_interpreter": "node",
+      "instances": "2",
+      "max_memory_restart": "300M",
+      "ignoreWatch": [
+        "[\\/\\\\]\\./",
+        "node_modules",
+        ".git"
+      ],
+      "watch": false,
+      "env": {
+        "DEBUG": "app*",
+        "NODE_ENV": "production",
+        "PORT": 30001
+      },
+      "exec_mode": "cluster_mode"
+    }
+  ]
+}

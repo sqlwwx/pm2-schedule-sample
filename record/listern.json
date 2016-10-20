@@ -1,0 +1,454 @@
+{
+  "stdout": [
+    [
+      0.099662,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.000297,
+      "\u001bk..hedule-sample\u001b\\"
+    ],
+    [
+      0.011506,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mpm2-schedule-sample\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m "
+    ],
+    [
+      0.000439,
+      "\u001b[K"
+    ],
+    [
+      0.000135,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000113,
+      "\u001b[?2004h"
+    ],
+    [
+      3.131274,
+      "r"
+    ],
+    [
+      0.447029,
+      "\bre"
+    ],
+    [
+      0.833491,
+      "d"
+    ],
+    [
+      0.1918,
+      "i"
+    ],
+    [
+      0.527232,
+      "s-"
+    ],
+    [
+      0.983504,
+      "c"
+    ],
+    [
+      0.415846,
+      "\u0007"
+    ],
+    [
+      0.004931,
+      "\r\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[J\u001b[0mredis-check-aof  \u001b[Jredis-check-rdb  \u001b[Jredis-cli      \u001b[J\u001bM\u001b[0m\u001b[23m\u001b[24m\r\u001b[38C"
+    ],
+    [
+      4.6e-05,
+      "redis-c\u001b[K"
+    ],
+    [
+      0.954184,
+      "l"
+    ],
+    [
+      0.211735,
+      "i\u001b[1m \u001b[0m"
+    ],
+    [
+      0.657593,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.000295,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.00016,
+      "\u001b[?2004l"
+    ],
+    [
+      7.5e-05,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.001875,
+      "\u001bkredis-cli\u001b\\"
+    ],
+    [
+      0.013989,
+      "127.0.0.1:6379> "
+    ],
+    [
+      1.778016,
+      "\r\u001b[0K127.0.0.1:6379> s\r\u001b[17C"
+    ],
+    [
+      0.287014,
+      "\r\u001b[0K127.0.0.1:6379> se\r\u001b[18C"
+    ],
+    [
+      0.232269,
+      "\r\u001b[0K127.0.0.1:6379> set\u001b[0;90;49m key value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[19C"
+    ],
+    [
+      0.395362,
+      "\r\u001b[0K127.0.0.1:6379> set \u001b[0;90;49mkey value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[20C"
+    ],
+    [
+      0.528743,
+      "\r\u001b[0K127.0.0.1:6379> set t\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[21C"
+    ],
+    [
+      0.33234,
+      "\r\u001b[0K127.0.0.1:6379> set ta\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[22C"
+    ],
+    [
+      0.238982,
+      "\r\u001b[0K127.0.0.1:6379> set tas\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[23C"
+    ],
+    [
+      0.251377,
+      "\r\u001b[0K127.0.0.1:6379> set task\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[24C"
+    ],
+    [
+      0.253113,
+      "\r\u001b[0K127.0.0.1:6379> set task1\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[25C"
+    ],
+    [
+      0.426763,
+      "\r\u001b[0K127.0.0.1:6379> set task1 \u001b[0;90;49mvalue [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[26C"
+    ],
+    [
+      0.840674,
+      "\r\u001b[0K127.0.0.1:6379> set task1 x\u001b[0;90;49m [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[27C"
+    ],
+    [
+      0.191623,
+      "\r\u001b[0K127.0.0.1:6379> set task1 xx\u001b[0;90;49m [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[28C"
+    ],
+    [
+      0.395986,
+      "\r\u001b[0K127.0.0.1:6379> set task1 xx\r\u001b[28C\r\n"
+    ],
+    [
+      0.000246,
+      "OK\r\n127.0.0.1:6379> "
+    ],
+    [
+      1.302962,
+      "\r\u001b[0K127.0.0.1:6379> e\r\u001b[17C"
+    ],
+    [
+      0.30088,
+      "\r\u001b[0K127.0.0.1:6379> ex\r\u001b[18C"
+    ],
+    [
+      0.353097,
+      "\r\u001b[0K127.0.0.1:6379> exp\r\u001b[19C"
+    ],
+    [
+      0.170839,
+      "\r\u001b[0K127.0.0.1:6379> expi\r\u001b[20C"
+    ],
+    [
+      0.228838,
+      "\r\u001b[0K127.0.0.1:6379> expir\r\u001b[21C"
+    ],
+    [
+      0.395253,
+      "\r\u001b[0K127.0.0.1:6379> expire\u001b[0;90;49m key seconds\u001b[0m\r\u001b[22C"
+    ],
+    [
+      2.84233,
+      "\r\u001b[0K127.0.0.1:6379> expire \u001b[0;90;49mkey seconds\u001b[0m\r\u001b[23C"
+    ],
+    [
+      0.550545,
+      "\r\u001b[0K127.0.0.1:6379> expire t\u001b[0;90;49m seconds\u001b[0m\r\u001b[24C"
+    ],
+    [
+      0.286672,
+      "\r\u001b[0K127.0.0.1:6379> expire ta\u001b[0;90;49m seconds\u001b[0m\r\u001b[25C"
+    ],
+    [
+      0.262175,
+      "\r\u001b[0K127.0.0.1:6379> expire tas\u001b[0;90;49m seconds\u001b[0m\r\u001b[26C"
+    ],
+    [
+      0.427795,
+      "\r\u001b[0K127.0.0.1:6379> expire task\u001b[0;90;49m seconds\u001b[0m\r\u001b[27C"
+    ],
+    [
+      1.749751,
+      "\r\u001b[0K127.0.0.1:6379> expire task1\u001b[0;90;49m seconds\u001b[0m\r\u001b[28C"
+    ],
+    [
+      1.132666,
+      "\r\u001b[0K127.0.0.1:6379> expire task1\r\u001b[28C\r\n"
+    ],
+    [
+      0.000577,
+      "(error) ERR wrong number of arguments for 'expire' command\r\n127.0.0.1:6379> "
+    ],
+    [
+      2.076584,
+      "\r\u001b[0K127.0.0.1:6379> e\r\u001b[17C"
+    ],
+    [
+      0.300596,
+      "\r\u001b[0K127.0.0.1:6379> ex\r\u001b[18C"
+    ],
+    [
+      0.243699,
+      "\r\u001b[0K127.0.0.1:6379> exp\r\u001b[19C"
+    ],
+    [
+      0.249037,
+      "\r\u001b[0K127.0.0.1:6379> expi\r\u001b[20C"
+    ],
+    [
+      0.095695,
+      "\r\u001b[0K127.0.0.1:6379> expir\r\u001b[21C"
+    ],
+    [
+      0.298877,
+      "\r\u001b[0K127.0.0.1:6379> expire\u001b[0;90;49m key seconds\u001b[0m\r\u001b[22C"
+    ],
+    [
+      2.570832,
+      "\r\u001b[0K127.0.0.1:6379> expire \u001b[0;90;49mkey seconds\u001b[0m\r\u001b[23C"
+    ],
+    [
+      1.143339,
+      "\r\u001b[0K127.0.0.1:6379> expire t\u001b[0;90;49m seconds\u001b[0m\r\u001b[24C"
+    ],
+    [
+      0.617961,
+      "\r\u001b[0K127.0.0.1:6379> expire ta\u001b[0;90;49m seconds\u001b[0m\r\u001b[25C"
+    ],
+    [
+      1.740327,
+      "\u0007"
+    ],
+    [
+      1.396635,
+      "\r\u001b[0K127.0.0.1:6379> expire tas\u001b[0;90;49m seconds\u001b[0m\r\u001b[26C"
+    ],
+    [
+      0.287845,
+      "\r\u001b[0K127.0.0.1:6379> expire task\u001b[0;90;49m seconds\u001b[0m\r\u001b[27C"
+    ],
+    [
+      0.203797,
+      "\r\u001b[0K127.0.0.1:6379> expire task \u001b[0;90;49mseconds\u001b[0m\r\u001b[28C"
+    ],
+    [
+      0.491049,
+      "\r\u001b[0K127.0.0.1:6379> expire task\u001b[0;90;49m seconds\u001b[0m\r\u001b[27C"
+    ],
+    [
+      0.14851,
+      "\r\u001b[0K127.0.0.1:6379> expire task1\u001b[0;90;49m seconds\u001b[0m\r\u001b[28C"
+    ],
+    [
+      0.249267,
+      "\r\u001b[0K127.0.0.1:6379> expire task1 \u001b[0;90;49mseconds\u001b[0m\r\u001b[29C"
+    ],
+    [
+      0.534411,
+      "\r\u001b[0K127.0.0.1:6379> expire task1 5\u001b[0;90;49m \u001b[0m\r\u001b[30C"
+    ],
+    [
+      0.254927,
+      "\r\u001b[0K127.0.0.1:6379> expire task1 5\r\u001b[30C\r\n"
+    ],
+    [
+      0.000216,
+      "(integer) 1\r\n127.0.0.1:6379> "
+    ],
+    [
+      4.203001,
+      "\r\u001b[0K127.0.0.1:6379> s\r\u001b[17C"
+    ],
+    [
+      0.193639,
+      "\r\u001b[0K127.0.0.1:6379> se\r\u001b[18C"
+    ],
+    [
+      0.286378,
+      "\r\u001b[0K127.0.0.1:6379> set\u001b[0;90;49m key value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[19C"
+    ],
+    [
+      0.201301,
+      "\r\u001b[0K127.0.0.1:6379> set \u001b[0;90;49mkey value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[20C"
+    ],
+    [
+      0.411075,
+      "\r\u001b[0K127.0.0.1:6379> set t\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[21C"
+    ],
+    [
+      0.396564,
+      "\r\u001b[0K127.0.0.1:6379> set ta\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[22C"
+    ],
+    [
+      0.232658,
+      "\r\u001b[0K127.0.0.1:6379> set tas\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[23C"
+    ],
+    [
+      0.355263,
+      "\r\u001b[0K127.0.0.1:6379> set task\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[24C"
+    ],
+    [
+      2.310722,
+      "\r\u001b[0K127.0.0.1:6379> set task2\u001b[0;90;49m value [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[25C"
+    ],
+    [
+      1.428825,
+      "\r\u001b[0K127.0.0.1:6379> set task2 \u001b[0;90;49mvalue [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[26C"
+    ],
+    [
+      3.728864,
+      "\r\u001b[0K127.0.0.1:6379> set task2 x\u001b[0;90;49m [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[27C"
+    ],
+    [
+      0.451353,
+      "\r\u001b[0K127.0.0.1:6379> set task2 xx\u001b[0;90;49m [EX seconds] [PX milliseconds] [NX|XX]\u001b[0m\r\u001b[28C"
+    ],
+    [
+      0.89653,
+      "\r\u001b[0K127.0.0.1:6379> set task2 xx\r\u001b[28C\r\n"
+    ],
+    [
+      0.000355,
+      "OK\r\n127.0.0.1:6379> "
+    ],
+    [
+      3.032727,
+      "\r\u001b[0K127.0.0.1:6379> d\r\u001b[17C"
+    ],
+    [
+      0.193488,
+      "\r\u001b[0K127.0.0.1:6379> de\r\u001b[18C"
+    ],
+    [
+      0.202317,
+      "\r\u001b[0K127.0.0.1:6379> del\u001b[0;90;49m key [key ...]\u001b[0m\r\u001b[19C"
+    ],
+    [
+      0.097615,
+      "\r\u001b[0K127.0.0.1:6379> dele\r\u001b[20C"
+    ],
+    [
+      0.345822,
+      "\r\u001b[0K127.0.0.1:6379> delet\r\u001b[21C"
+    ],
+    [
+      0.394088,
+      "\r\u001b[0K127.0.0.1:6379> delete\r\u001b[22C"
+    ],
+    [
+      0.851729,
+      "\r\u001b[0K127.0.0.1:6379> delete \r\u001b[23C"
+    ],
+    [
+      0.440356,
+      "\r\u001b[0K127.0.0.1:6379> delete\r\u001b[22C"
+    ],
+    [
+      0.16402,
+      "\r\u001b[0K127.0.0.1:6379> delet\r\u001b[21C"
+    ],
+    [
+      0.23185,
+      "\r\u001b[0K127.0.0.1:6379> dele\r\u001b[20C"
+    ],
+    [
+      0.096813,
+      "\r\u001b[0K127.0.0.1:6379> del\u001b[0;90;49m key [key ...]\u001b[0m\r\u001b[19C"
+    ],
+    [
+      0.185845,
+      "\r\u001b[0K127.0.0.1:6379> del \u001b[0;90;49mkey [key ...]\u001b[0m\r\u001b[20C"
+    ],
+    [
+      0.615683,
+      "\r\u001b[0K127.0.0.1:6379> del t\u001b[0;90;49m [key ...]\u001b[0m\r\u001b[21C"
+    ],
+    [
+      0.297354,
+      "\r\u001b[0K127.0.0.1:6379> del ta\u001b[0;90;49m [key ...]\u001b[0m\r\u001b[22C"
+    ],
+    [
+      0.243242,
+      "\r\u001b[0K127.0.0.1:6379> del tas\u001b[0;90;49m [key ...]\u001b[0m\r\u001b[23C"
+    ],
+    [
+      0.246525,
+      "\r\u001b[0K127.0.0.1:6379> del task\u001b[0;90;49m [key ...]\u001b[0m\r\u001b[24C"
+    ],
+    [
+      0.420423,
+      "\r\u001b[0K127.0.0.1:6379> del task2\u001b[0;90;49m [key ...]\u001b[0m\r\u001b[25C"
+    ],
+    [
+      0.640476,
+      "\r\u001b[0K127.0.0.1:6379> del task2\r\u001b[25C\r\n"
+    ],
+    [
+      0.000476,
+      "(integer) 1\r\n127.0.0.1:6379> "
+    ],
+    [
+      4.461643,
+      "\r\n\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                           \r \r\u001bk..hedule-sample\u001b\\"
+    ],
+    [
+      0.024847,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mpm2-schedule-sample\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m "
+    ],
+    [
+      0.001525,
+      "\u001b[K"
+    ],
+    [
+      0.000146,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      7.6e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      7.7571,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ],
+  "width": 204,
+  "height": 25,
+  "command": null,
+  "duration": 73.612764,
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "title": null,
+  "version": 1
+}
